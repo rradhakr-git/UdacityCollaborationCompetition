@@ -42,7 +42,7 @@ EPS_FINAL = 0.         # Final EPS value
 
 ### Plot of the scores (Results)
 
-The plof of the scores at the time of the project goal is reached here Tennis_score.png
+The plof of the scores at the time of the project goal is reached here
 
 <img src="https://github.com/rradhakr-git/UdacityCollaborationCompetition/blob/main/Tennis_score.png?raw=true"/>
 
