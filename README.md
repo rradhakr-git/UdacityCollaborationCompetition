@@ -22,6 +22,17 @@ After each episode, we add up the rewards that each agent received (without disc
 This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
+### Udacity Project Review
+
+Meets Specifications
+Dear Udacian,
+
+The project is very well implemented and meets all the specifications! Congratulations on implementing the Multi Agent Deep Deterministic Policy Gradients algorithm. The agent is trained successfully to solve the Tennis environment and achieves an average score of +0.508 in 1279 episodes, impressive work. The actor and critic networks seem to be very efficient with two hidden layers each. Good work using relu activation in both the networks. The report is extremely informative and covers all the details of the implementation. A very good submission overall.
+
+As next step, please go through the resource: human-like robot hand trained to manipulate physical objects with unprecedented dexterity.
+
+All the best! :smile:
+
 
 ### Getting started
 
