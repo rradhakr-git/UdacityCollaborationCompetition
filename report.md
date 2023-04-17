@@ -52,7 +52,6 @@ The plot of the scores after completing the 2500 episodic runs here
 ### Future Work
 
  
- I want to get comfortable with building the unity environment in my own setup. I was not successful when I started doing that before getting back into 
- Udacity lab.
+ I want to get comfortable with building the unity environment in my own setup. 
  
  I also want to try 4 agents with doubles tennis with two agents colloborating to compete against two other agents.
