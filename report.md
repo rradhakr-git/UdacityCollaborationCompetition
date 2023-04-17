@@ -42,6 +42,10 @@ EPS_FINAL = 0.         # Final EPS value
 
 ### Plot of the scores (Results)
 
+The plof of the scores at the time of the project goal is reached here
+<img src="https://github.com/rradhakr-git/UdacityColloborationCompetition/blob/main/Tennis_score.png?raw=true"/>
+
+The plot of the scores after completing the 2500 episodic runs here 
 <img src="https://github.com/rradhakr-git/UdacityColloborationCompetition/blob/main/Tennis_score_2500Episode.png?raw=true"/>
 
 
